@@ -1,2 +1,4 @@
 회의실배정 : 그리디
 https://www.acmicpc.net/problem/1931
+
+내일 모레 시험이라 오늘 쉴게요~
